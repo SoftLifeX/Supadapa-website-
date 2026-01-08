@@ -5,7 +5,7 @@ import { NextIntlClientProvider } from "next-intl";
 
 export const metadata: Metadata = {
 	title: "SupaDupa - Let's build some good companies!",
-	description: "SupaDupa website clone by devwithzain",
+	description: "SupaDupa website clone by SoftLifeX",
 };
 
 export default async function RootLayout({
